@@ -2,5 +2,4 @@
 
 set url=%1
 
-
-git clone %url%
+git clone  %url%

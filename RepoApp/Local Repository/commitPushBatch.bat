@@ -2,5 +2,6 @@
 
 set comment=%1
 
-git commit comment
+git add -A
+git commit -a -m %comment%
 git push origin master

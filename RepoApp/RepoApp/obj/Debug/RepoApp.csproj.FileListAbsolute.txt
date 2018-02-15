@@ -1,0 +1,15 @@
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\bin\Debug\RepoApp.exe.config
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\bin\Debug\RepoApp.exe
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\bin\Debug\RepoApp.pdb
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\obj\Debug\RepoApp.csprojResolveAssemblyReference.cache
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\obj\Debug\RepoApp.exe
+C:\Users\mperez29\Desktop\RepoApp\RepoApp\obj\Debug\RepoApp.pdb
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\bin\Debug\RepoApp.exe.config
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\bin\Debug\RepoApp.exe
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\bin\Debug\RepoApp.pdb
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\obj\Debug\RepoApp.csprojResolveAssemblyReference.cache
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\obj\Debug\RepoApp.csproj.CoreCompileInputs.cache
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\obj\Debug\RepoApp.exe
+C:\Users\mperez29\Pictures\RepoApp\RepoApp\obj\Debug\RepoApp.pdb
+C:\Users\gciam\Desktop\RepoApp\RepoApp\obj\Debug\RepoApp.exe
+C:\Users\gciam\Desktop\RepoApp\RepoApp\obj\Debug\RepoApp.pdb
